@@ -11,7 +11,7 @@ The simulation is made with
 
 https://www.simulide.com/p/home.html
 
-Simu files can be opened and run with simulide software and is available for download here :
+Simu files can be opened and run with SimulIDE software and is available for download here :
 
 https://www.simulide.com/p/downloads.html
 
