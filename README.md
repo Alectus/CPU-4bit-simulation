@@ -15,6 +15,6 @@ Simu files can be opened and run with SimulIDE software and is available for dow
 
 https://www.simulide.com/p/downloads.html
 
-I used version 0.4.14
+I use version 0.4.14
 
 
