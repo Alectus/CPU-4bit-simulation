@@ -10,3 +10,11 @@ https://github.com/pong74ls/Nibbler/blob/master/Documentation/Nibbler%20-%20Sche
 The simulation is made with 
 
 https://www.simulide.com/p/home.html
+
+Simu files can be opened and run with simulide software and is available for download here :
+
+https://www.simulide.com/p/downloads.html
+
+I used version 0.4.14
+
+
