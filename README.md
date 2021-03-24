@@ -18,7 +18,7 @@ https://www.simulide.com/p/downloads.html
 
 I use version 0.4.14
 
-+++++++++++++++++++++++++++++++++++++++++++
+*****************************
 
 24 march - Cpu4-Part5 is my first attempt with the Roms uploaded with bin-files taken from the Nibbler File Archive here:
 
