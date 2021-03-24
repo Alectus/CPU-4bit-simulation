@@ -27,4 +27,6 @@ https://www.bigmessowires.com/nibbler/
 The display shows no sign of life.
 The bin files get the extension .data when saved in Simulide.
 
+**************************
 
+In Part6 I changed the ProgRom to mastermind and the display becomes active.
