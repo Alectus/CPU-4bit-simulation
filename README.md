@@ -20,6 +20,11 @@ I use version 0.4.14
 
 +++++++++++++++++++++++++++++++++++++++++++
 
-24 march - Cpu4-Part5 is my first attempt with the Roms uploaded with bin-files. The display shows no sign of life.
+24 march - Cpu4-Part5 is my first attempt with the Roms uploaded with bin-files taken from the Nibbler File Archive here:
+
+https://www.bigmessowires.com/nibbler/
+
+The display shows no sign of life.
+The bin files get the extension .data when saved in Simulide.
 
 
