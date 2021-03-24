@@ -29,4 +29,4 @@ The bin files get the extension .data when saved in Simulide.
 
 **************************
 
-In Part6 I changed the ProgRom to mastermind and the display becomes active.
+In Part6 I changed the ProgRom to mastermind.data and the display becomes active.
