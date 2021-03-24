@@ -24,7 +24,7 @@ I use version 0.4.14
 
 https://www.bigmessowires.com/nibbler/
 
-The display shows no sign of life. Progrom contains the guess-a-number file.
+The display shows no sign of life. ProgRom contains the guess-a-number file.
 The bin files get the extension .data when saved in Simulide.
 
 **************************
