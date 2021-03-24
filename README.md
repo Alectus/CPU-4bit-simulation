@@ -1,7 +1,8 @@
 # CPU-4bit-simulation
 21 march 2021
 
-The source of this project is https://www.bigmessowires.com/nibbler/ and where the schematic can be found. 
+The source of this project is https://www.bigmessowires.com/nibbler/ and where the schematic and the data files can be found:
+"Download the Nibbler file archive containing all the design files and tools".
 
 I use the schematic from pong74ls so the names of tunnel/labels etc. can be a little bit different, see 
 
@@ -16,5 +17,9 @@ Simu files can be opened and run with SimulIDE software and is available for dow
 https://www.simulide.com/p/downloads.html
 
 I use version 0.4.14
+
++++++++++++++++++++++++++++++++++++++++++++
+
+24 march - Cpu4-Part5 is my first attempt with the Roms uploaded with bin-files. The display shows no sign of life.
 
 
