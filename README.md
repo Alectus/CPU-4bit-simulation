@@ -30,3 +30,7 @@ The bin files get the extension .data when saved in Simulide.
 **************************
 
 In Part6 I changed the ProgRom to mastermind.data and the display becomes active.
+
+**************************************
+
+25 march - Cpu4 Part8 is the final version, the push buttons are replaced with switches. The simulation does not respond very well to the input switches, it takes several minutes before something changes in the display so playing a game is not possible. Has to do something with the clock, originally at 2.46 MHz the simulation is at 10 kHz and is only 9% of real time.
