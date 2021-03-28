@@ -36,7 +36,9 @@ In Part6 I changed the ProgRom to mastermind.data and the display becomes active
 25 march - Cpu4 Part8 is the final version, the push buttons are replaced with switches. The simulation does not respond very well to the input switches, it takes several minutes before something changes in the display so playing a game is not possible. Has to do something with the clock, originally at 2.46 MHz the simulation is at 10 kHz and is only 9% of real time.
 
 More details about this Nibbler (and ALU 74HC181) simulation are here and here:
+
 https://simulide.forumotion.com/t125-nibbler-4-bit-cpu
+
 https://simulide.forumotion.com/t143-74hc181-alu-8-bit
 
 
